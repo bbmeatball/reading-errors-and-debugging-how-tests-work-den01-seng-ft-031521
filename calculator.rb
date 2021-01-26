@@ -2,6 +2,6 @@
 first_number= 2
 second_number=4
 sum=6
-difference=1
+difference= -2
 first_number + second_number 
 first_number - second_number
