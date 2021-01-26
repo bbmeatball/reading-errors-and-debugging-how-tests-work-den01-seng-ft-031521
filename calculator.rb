@@ -4,8 +4,8 @@ second_number=4
 sum=6
 difference= -2
 product = 8
-quotient = 2
+quotient = 0
 first_number + second_number 
 first_number - second_number
 first_number * second_number
-second_number / first_number
+first_number/second_number
